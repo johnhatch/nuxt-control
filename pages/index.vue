@@ -1,0 +1,3 @@
+<template>
+  <SpotifyTest />
+</template>
